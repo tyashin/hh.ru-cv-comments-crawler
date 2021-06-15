@@ -1,0 +1,3 @@
+127.0.0.1:8000/put_comments?url=87f283f900076bd20c00425d2f414370695951&doc_id=6665400987725858387&user=yashin&comments=удалось_ли_проверить
+
+http://127.0.0.1:8000/get_comments?url=87f283f900076bd20c00425d2f414370695951&doc_id=6665400987725858387&user=yashin

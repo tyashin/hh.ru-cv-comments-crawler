@@ -25,16 +25,7 @@ def write_data_to_file(settings_string, file_name='user_settings_test.txt'):
         file.write(data)
 
 
-""" #Пример использования:
-encoded = encode_string(b'data to be encoded')
-print(encoded)
-data = decode_string (encoded)
-print(data)
-write_data_to_file(b'data to be encoded')
-print(read_settings_from_file())
-////////////////////////////////
-
-Формат XML-файла с настройками:
+"""Формат XML-файла с настройками:
 <settings>
  <user>
   <estaff_username>yashin</estaff_username>
